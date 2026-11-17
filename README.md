@@ -16,8 +16,8 @@ Errors are printed in the form `Error # (MESSAGE)` using `errno` and
 ## Clone, compile, and run
 
 ```
-git clone <URL OF YOUR REPO>
-cd <repo folder>
+git clone https://github.com/aaa061-cmyk/techshell
+cd techshell
 gcc -o techshell techshell.c
 ./techshell
 ```
